@@ -1,4 +1,9 @@
 test
 this is first modification
 this is second modification
+<<<<<<< HEAD
 this is in master branch
+=======
+
+this is in new branch
+>>>>>>> branch1
