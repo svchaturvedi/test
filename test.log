@@ -6,4 +6,8 @@ this is in master branch
 =======
 
 this is in new branch
+<<<<<<< HEAD
+>>>>>>> branch1
+=======
+this is new line added after merge
 >>>>>>> branch1
